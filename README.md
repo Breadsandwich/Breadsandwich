@@ -43,6 +43,6 @@
    <img src="https://img.shields.io/badge/Gmail-email%20me!-red" />
 </a>
 <a href="https://calendly.com/breadsandwich/30min" target="_blank">
-  <img src="https://img.shields.io/badge/Calendly-schedule%20a%20meeting-blue" />
+  <img src="https://img.shields.io/badge/Calendly-schedule%20a%20meeting-green" />
 </a>
 

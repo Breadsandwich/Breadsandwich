@@ -1,6 +1,6 @@
 ## Hi! I'm Daniel. 👋
 
-- 🔭 Currently working on final touches to all protfolio projects.
+- 🔭 Currently learning AWS solutions architect!
 - 👯 I’m open to collaborate on new projects!
 - 💬 Ask me about video games, food, and crypto!
 - 🎮 Currently playing: Elden Ring

@@ -1,9 +1,8 @@
 ## Hi! I'm Daniel. 👋
 
-- 🔭 Currently learning AWS solutions architect!
+- 🔭 Software Engineering @ ZoomInfo
 - 👯 I’m open to collaborate on new projects!
 - 💬 Ask me about video games, food, and crypto!
-- 🎮 Currently playing: Elden Ring
 
 
 

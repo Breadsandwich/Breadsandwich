@@ -1,8 +1,7 @@
 ## Hi! I'm Daniel. 👋
 
-- 🔭 Software Engineering @ ZoomInfo
-- 👯 I’m open to collaborate on new projects!
-- 💬 Ask me about video games, food, and crypto!
+- 🔭 Software Engineering, ex-ZoomInfo
+- 👯 I build websites and apps on the side, open to collaboration!
 
 
 
@@ -32,7 +31,7 @@
 <br>
 
 ## Connect with me!
-<a href="https://www.linkedin.com/in/daniel--thai/" target="_blank" >
+<a href="https://www.linkedin.com/in/danielthai623/" target="_blank" >
   <img  src="https://img.shields.io/badge/Linkedin-Connect!-blue" />
 </a>
 <a href="https://angel.co/u/daniel-thai-1" target="_blank">
@@ -41,7 +40,5 @@
 <a href="mailto:danielthai14@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-email%20me!-red" />
 </a>
-<a href="https://calendly.com/breadsandwich/30min" target="_blank">
-  <img src="https://img.shields.io/badge/Calendly-schedule%20a%20meeting-green" />
-</a>
+
 
